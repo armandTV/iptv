@@ -1,0 +1,133 @@
+#EXTM3U
+
+
+#EXTINF:0,TF1
+#EXTVLCOPT:program=1537
+dvb-t://frequency=562166000
+
+
+#EXTINF:0,France 2
+#EXTVLCOPT:program=257
+dvb-t://frequency=586166000
+
+#EXTINF:0,France 3
+#EXTVLCOPT:program=273
+dvb-t://frequency=586166000
+
+#EXTINF:0,Canal+
+#EXTVLCOPT:program=769
+dvb-t://frequency=482166000
+
+#EXTINF:0,France 5
+#EXTVLCOPT:program=1045
+dvb-t://frequency=546166000
+
+#EXTINF:0,M6
+#EXTVLCOPT:program=1025
+dvb-t://frequency=546166000
+
+#EXTINF:0,Arte
+#EXTVLCOPT:program=1031
+dvb-t://frequency=546166000
+
+#EXTINF:0,C8
+#EXTVLCOPT:program=513
+dvb-t://frequency=506166000
+
+#EXTINF:0,W9
+#EXTVLCOPT:program=1026
+dvb-t://frequency=546166000
+
+#EXTINF:0,TMC
+#EXTVLCOPT:program=1542
+dvb-t://frequency=562166000
+
+#EXTINF:0,NT1
+#EXTVLCOPT:program=1544
+dvb-t://frequency=562000000
+
+
+#EXTINF:0,LCP
+#EXTVLCOPT:program=1545
+dvb-t://frequency=562166000
+
+
+#EXTINF:0,France 4
+#EXTVLCOPT:program=260
+dvb-t://frequency=586166000
+
+#EXTINF:0,BFM TV
+#EXTVLCOPT:program=515
+dvb-t://frequency=506166000
+
+#EXTINF:0,Cnews
+#EXTVLCOPT:program=516
+dvb-t://frequency=506166000
+
+#EXTINF:0,LCI
+#EXTVLCOPT:program=776
+dvb-t://frequency=482166000
+
+#EXTINF:0,Franceinfo
+#EXTVLCOPT:program=262
+dvb-t://frequency=586166000
+
+#EXTINF:0,France24
+#EXTVLCOPT:program=2052
+dvb-t://frequency=530166000
+
+#EXTINF:0,Paris Première
+#EXTVLCOPT:program=777
+dvb-t://frequency=482166000
+
+#EXTINF:0,HD1
+#EXTVLCOPT:program=2561
+dvb-t://frequency=642166000
+
+#EXTINF:0,Numero 23
+#EXTVLCOPT:program=2565
+dvb-t://frequency=642166000
+
+#EXTINF:0,RMC Decouverte
+#EXTVLCOPT:program=2564
+dvb-t://frequency=642166000
+
+#EXTINF:0,L'Equipe 21
+#EXTVLCOPT:program=2562
+dvb-t://frequency=642166000
+
+#EXTINF:0,BFM Paris
+#EXTVLCOPT:program=257
+dvb-t://frequency=586166000
+
+#EXTINF:0,Chérie 25
+#EXTVLCOPT:program=2563
+dvb-t://frequency=642166000
+
+#EXTINF:0,NRJ 12
+#EXTVLCOPT:program=1538
+dvb-t://frequency=562166000
+
+#EXTINF:0,Cstar
+#EXTVLCOPT:program=517
+dvb-t://frequency=506166000
+
+#EXTINF:0,IDF1
+#EXTVLCOPT:program=2051
+dvb-t://frequency=530166000
+
+#EXTINF:0,France Ô
+#EXTVLCOPT:program=261
+dvb-t://frequency=586166000
+
+#EXTINF:0,Canal 31
+#EXTVLCOPT:program=2050
+dvb-t://frequency=530166000
+
+#EXTINF:0,Gulli
+#EXTVLCOPT:program=518
+dvb-t://frequency=506166000
+
+#EXTINF:0,6ter
+#EXTVLCOPT:program=1046
+dvb-t://frequency=546166000
